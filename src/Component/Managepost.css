@@ -1,0 +1,117 @@
+ .managepost{
+     width: 100%;
+     background-color: white;
+     box-shadow: 0px 13px 10px -7px rgba(66, 51, 51, 0.2);
+     transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+     border-radius: 5px;
+     border-radius: 10px;
+     margin-top: 10px;
+ }
+ .manage{
+     display: flex;
+ }
+ .tune{
+     margin-left: 100px;
+     margin-top: 20px;
+ }
+ .fil{
+     margin-top: 20px;
+     font-size: 20px;
+     margin-left: 5px;
+     
+ }
+ .sett{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 5px;
+ }
+ .managepost hr{
+     margin-top: -30px;
+ }
+ .hpost{
+     margin-left: 10px;
+     margin-top: 20px;
+     font-size:30px;
+     font-weight: bold;
+     
+ }
+
+ .list{
+     margin-top: -31px;
+     margin-left: 200px;
+     font-size: 20px;
+     color: blue;
+ } 
+ .grid{
+     float: right;
+     margin-top: -35px;
+     margin-right: 90px;
+     font-size: 20px;
+ }
+ .lise{
+     margin-top: -10px;
+ }
+ .tu{
+    /* margin-top: -20px; */
+    margin-left: 160px;
+    padding: 20px 0;
+    font-size: 20px;
+    color: blue;
+} 
+.tu1{
+    float: right;
+    margin-right: 130px;
+    margin-top: -40px;
+}
+ /* .set{
+     margin-top: 20px;
+     padding-right: 20px;
+ } */
+ /* .fil{
+     margin-top: 23px;
+     margin-left: -30px;
+     font-size: 20px;
+ } */
+ /* .mgbtn{
+     height: 50px;
+     width: 80px;
+     font-size: 20px;
+     margin-left: 100px;
+
+ } */
+ /* }
+ .mgbtn{
+      
+     margin-right: auto;
+     font-size: 20px;
+     padding: 0 10px;
+     text-align: center;
+     padding-right: 10px 20px;
+     margin: 0 15px;
+     float: right;
+     margin-top: -30px;
+    
+     border-radius: 10px;
+
+ }
+ .hpost{
+   
+     font-size: 20px;
+     margin-left: 20px;
+     padding-top: 20px;
+ }
+ .flage2{
+     margin-left: 100px;
+    
+ }
+ .managepost hr{
+     margin-top: -5px;
+ }
+ .st{
+     color: blue;
+     font-size: 20px;
+     
+ }
+ .stt{
+     font-size: 20px;
+ } */

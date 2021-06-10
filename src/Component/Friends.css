@@ -1,0 +1,48 @@
+.friends{
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color:   white;
+    width:  100%;
+    border-radius: 10px;
+    box-shadow: 0px 13px 10px -7px rgba(66, 51, 51, 0.2);
+    margin-top: 10px;
+}
+.pics img{
+    height: 107px;
+    width: 107px;
+    border-radius: 5px;
+    /* -webkit-column-count: 3; */
+}
+.col{
+    /* -webkit-column-count: 3; */
+    /* columns: 3; */
+    /* column-count: 3; */
+    columns: 3;
+    
+}
+.heding{
+    display: flex; 
+    /* padding: 0 20px; */
+}
+.ph{
+    
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 0px;
+}
+ .ph2{
+     margin-left: 170px;
+     font-size: 20px;
+     color: blue;
+ }
+ .ph3{
+     font-size: 20px;
+     margin-top: -15px;
+     margin-left:5px ;
+     color: rgb(78, 76, 76);
+ }
+ .pics p{
+     margin-left: 6px;
+     margin-top: -3px;
+     font-weight: bold;
+     text-align: center;
+ }
