@@ -1,0 +1,79 @@
+ .managepost{
+     width: 100%;
+     background-color: white;
+     box-shadow: 0px 13px 10px -7px rgba(66, 51, 51, 0.2);
+     transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+     border-radius: 5px;
+     border-radius: 10px;
+     margin-top: 10px;
+ } 
+  
+ .mgpost{
+     padding: 5px 5px;
+ }
+ .manageView{
+     display: flex;
+   
+ }
+ .manageFilter{
+     height: 20px;
+     width: 80px;
+     background-color: rgb(211, 211, 211);
+      border-radius: 4px;
+     display: flex;
+     margin-left:100px;
+     margin-top: -40px;
+     
+ }
+ .manageFilter p{
+     margin-top: -0px;
+     margin-left: 5px;
+ }
+ .manageseting{
+    height: 22px;
+    width: 130px;
+    background-color: rgb(211, 211, 211);
+     border-radius: 4px;
+
+     display: flex;
+     margin-left: 125px;
+     margin-top: -40px;
+ }
+.manageseting p{
+    margin-top: -0px;
+    margin-left: 5px;
+}
+
+.managepost hr{
+    margin-top: -10px;
+}
+
+.postViewMethod{
+    display: flex;
+}
+.listView{
+    display: flex;
+    margin-left: 100px;
+    color: blue;
+     border-bottom: 3px solid blue;
+     margin-bottom: 10px;
+}
+.listView p{
+    margin-top: -0px;
+    margin-left: 5px;
+}
+.gridView{
+    display: flex;
+     margin-left: 120px;
+}
+.gridView p{
+    margin-top: -0px;
+    margin-left: 5px;
+}
+
+
+@media (max-width :700px) {
+    .managepost{
+        display: none;
+    }
+  }

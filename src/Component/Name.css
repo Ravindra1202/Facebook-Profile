@@ -1,0 +1,29 @@
+.name{
+    text-align: center;
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+}
+.name h4{
+    margin-top: -20px;
+}
+.name p{
+    margin-top: -2px;
+    font-size: 20px;
+    color: blue;
+   
+}
+
+@media  (max-width :400px) {
+    .name h1{
+        font-size: 20px;
+    }
+    .name h4{
+        margin-top: -10px;
+    }
+    .name p{
+        /* margin-top: -2px; */
+        font-size: 15px;
+        color: blue;
+    }
+}
